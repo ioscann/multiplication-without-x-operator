@@ -29,11 +29,7 @@ int main()
 	{
 		swap(&num1, &num2);
 	}
-	else if (num1 == 0 && num2 == 0)
-	{
-		printf("NaN\n");
-		goto end;
-	}
+	
 
 	for (int i = 0; i < num2; i++)
 	{
