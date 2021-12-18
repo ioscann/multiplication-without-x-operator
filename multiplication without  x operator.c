@@ -38,8 +38,6 @@ int main()
 
 	printf("conculusion -> %d\n", conculusion);
 
-	end:
-
 	system("pause");
 
 	return 0;
